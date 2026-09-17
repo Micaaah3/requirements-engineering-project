@@ -16,14 +16,18 @@
 4. Maintenance will need a way to view, reply to, complete issues in a user interface; May want to avoid conflicts with booking timings
 5. Receptionists will need a way to view booked equipment and add/remove bookings in real time; May want to avoid pointless slow downs due to queues.
 # Unknowns
-Will there be any restrictions on equipment? I.e something available to only first years, or those doing a specific course? 
+Will there be any restrictions on equipment? I.e something available to only first years, or those doing a specific course?
+
 ^^ Can be answered by Administration
+
 How often are people going to be getting equipment? How much traffic should we expect? 
+
 ^^ Can be answered by both teachers and students,
 # information sources
-Questionaires
-Interviews
-Forms
+- Questionaires
+- Interviews
+- Forms
+- 
 Can be done with stakeholders; lectureres, students, administration, etc.
 # elicitation questions
 1. What are the most common issues users face?
