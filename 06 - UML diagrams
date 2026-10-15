@@ -1,0 +1,17 @@
+FR01 a student can make more than one equipment booking
+fr02 each booking identifies exactly one equipment item
+fr03 each booking records a start date and end date
+fr04 staff members review booking requests
+fr05 staff members manage equipment availability
+fr06 a booking may be approved or rejected.
+
+Part B)
+               class, attribute   supporting
+candidate      or action          requirement
+student        class              fr01
+booking        class              fr02
+start date     attribute          fr03
+end date       attribute          fr03
+equipment      class              fr01
+review         action             fr04, fr06
+staff member   class              fr04
